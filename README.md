@@ -22,3 +22,18 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+
+
+
+
+
+plant = name, url_picture
+
+tag = name
+
+
+plant1 <--- tag(cactus), tag(flower)
+
+plant2 <--- tag(flower), tag(forest)
